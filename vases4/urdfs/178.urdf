@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<robot name="178">
+  <link name="body">
+    <visual>
+      <geometry>
+        <mesh filename="../shapes/178.obj"/>
+      </geometry>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="../shapes/178.obj"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>
